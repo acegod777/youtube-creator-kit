@@ -1,0 +1,13 @@
+{
+  "name": "youtube-creator-kit",
+  "owner": { "name": "acegod777", "url": "https://github.com/acegod777" },
+  "plugins": [
+    {
+      "name": "youtube-creator-kit",
+      "description": "Free YouTube skill for creators: real-limit metadata checks, duplicate checks for Shorts, retention and channel reports from Studio exports, niche outliers, chapters. Never uploads.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/acegod777/youtube-creator-kit"
+    }
+  ]
+}

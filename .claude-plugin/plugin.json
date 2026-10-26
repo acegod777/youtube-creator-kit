@@ -1,0 +1,10 @@
+{
+  "name": "youtube-creator-kit",
+  "description": "Free YouTube skill: checks titles, descriptions, hashtags and tags against YouTube's real limits and for duplicates, reads Studio retention and channel exports, finds niche outliers, makes chapters and Shorts. Never uploads.",
+  "version": "1.0.0",
+  "author": { "name": "acegod777", "url": "https://github.com/acegod777" },
+  "homepage": "https://github.com/acegod777/youtube-creator-kit",
+  "repository": "https://github.com/acegod777/youtube-creator-kit",
+  "license": "MIT",
+  "keywords": ["youtube", "shorts", "titles", "seo", "retention", "chapters", "creator"]
+}
